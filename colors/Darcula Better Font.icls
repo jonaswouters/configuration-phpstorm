@@ -1,10 +1,9 @@
 <scheme name="Darcula Better Font" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Hasklig" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
     <option name="MARKDOWN_NAVIGATOR.BOLD_CODE_TEXT">
       <value>
